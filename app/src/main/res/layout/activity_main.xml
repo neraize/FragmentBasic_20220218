@@ -19,4 +19,11 @@
         android:layout_height="250dp"
         class="com.nepplus.fragmentbasic_20220218.fragments.MySecondFragment"/>
 
+<!--    ThirdFragment 만들어서 배치. 세로 300dp-->
+    <fragment
+        android:tag="세번째"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        class="com.nepplus.fragmentbasic_20220218.fragments.MyThirdFragment"/>
+
 </LinearLayout>
