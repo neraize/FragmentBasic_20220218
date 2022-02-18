@@ -26,9 +26,7 @@ class MyFirstFragment:Fragment() {
         // 이벤트 처리 / 데이터 보여주기 등등 동작
 
         btnLog.setOnClickListener {
-
             Log.d("첫프래그먼트","프래그먼트의 버튼으로 로그 찍기")
-
         }
     }
 }
